@@ -1,2 +1,2 @@
 # stemilau.github.io
-stemilau's presentation site
+stemilau's presentation website
